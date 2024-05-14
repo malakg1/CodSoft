@@ -1,4 +1,4 @@
-# CodSoft internship
+# CodSoft 
 Machine Learning projects 
 ## Task 1 (MOVIE GENRE CLASSIFICATION):
 This project highlights the application of machine learning in movie genre prediction, showcasing the potential of text classification algorithms in automated genre tagging. By accurately predicting movie genres, this model can assist content creators, movie enthusiasts, and streaming platforms in organizing and recommending movies based on user preferences. 
